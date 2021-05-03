@@ -11,6 +11,13 @@ body, html {
   background-size: cover;
 }
 
+body {
+  background: url(../images/white-wood.jpg) no-repeat;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 .container, h1 {
   width: 80%;
   max-width: 600px;
